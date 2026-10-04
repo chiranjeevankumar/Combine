@@ -1,0 +1,3 @@
+-- AlterEnum
+ALTER TYPE "EmailEventType" ADD VALUE IF NOT EXISTS 'REPLIED';
+

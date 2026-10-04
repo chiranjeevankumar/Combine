@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+playwright
+beautifulsoup4
+pandas
